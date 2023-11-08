@@ -1,2 +1,1 @@
-
-apikey = "Open-AI-Key"
+apikey = ""
